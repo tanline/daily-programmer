@@ -1,0 +1,6 @@
+5
+NOT 0
+JZ 4 0
+NOT 0
+JMP 1
+HALT
